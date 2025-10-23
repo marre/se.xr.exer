@@ -1,0 +1,28 @@
+{
+  "id": "se.xr.exer",
+  "version": "1.0.0",
+  "compatibility": ">=12.4.0",
+  "sdk": 3,
+  "platforms": [
+    "local"
+  ],
+  "name": {
+    "en": "homey-exer"
+  },
+  "description": {
+    "en": "Exer devices"
+  },
+  "category": [
+    "climate"
+  ],
+  "permissions": [],
+  "images": {
+    "small": "/assets/images/small.png",
+    "large": "/assets/images/large.png",
+    "xlarge": "/assets/images/xlarge.png"
+  },
+  "author": {
+    "name": "Markus Eriksson",
+    "email": "markus.eriksson@gmail.com"
+  }
+}

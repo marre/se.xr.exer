@@ -26,6 +26,7 @@
     "name": "Markus Eriksson",
     "email": "markus.eriksson@gmail.com"
   },
+  "support": "https://github.com/marre/se.xr.exer/issues",
   "drivers": [
     {
       "id": "tz01",

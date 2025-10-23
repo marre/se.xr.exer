@@ -1,0 +1,1 @@
+Adding devices used by exer to your Homey
